@@ -1,0 +1,6 @@
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\bin\Debug\Infija-PostijaV3.exe.config
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\bin\Debug\Infija-PostijaV3.exe
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\bin\Debug\Infija-PostijaV3.pdb
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\obj\Debug\Infija-PostijaV3.csprojResolveAssemblyReference.cache
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\obj\Debug\Infija-PostijaV3.exe
+C:\Users\abela\OneDrive\Escritorio\UTT\4 Cuatrimestre\Estructura de datos\Infija-PostijaV3\Infija-PostijaV3\obj\Debug\Infija-PostijaV3.pdb
